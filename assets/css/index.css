@@ -73,4 +73,6 @@ h3{
   .section6{
     box-sizing: border-box
   }
-  
+  .card-body{
+      height: 225px;
+  }
